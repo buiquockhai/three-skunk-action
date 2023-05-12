@@ -1,0 +1,17 @@
+{
+  "name": "three-skunk-action",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://buiquockhai.github.io/three-skunk-action",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --public-url ./",
+    "deploy": "rm -rf dist/ && npm run build && gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "three": "^0.152.2"
+  }
+}
