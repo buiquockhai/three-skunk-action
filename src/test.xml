@@ -1,4 +1,23 @@
-    <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:goonews="http://news.goo.ne.jp/rss/2.0/news/goonews/" xmlns:smp="http://news.goo.ne.jp/rss/2.0/news/smp/" version="2.0">      <channel>        <title>LEXUS NEWS</title>        <link>https://lexus.jp/magazine/</link>        <description>LEXUSのニュースをお届けするメディアです</description>        <language>ja</language>        <copyright>VISIONARY編集部</copyright>        <pubDate>Thu, 18 Apr 2024 17:00:00 +0900</pubDate>            <item>      <guid isPermaLink="false">20240418v8ja9-2jyx</guid>      <goonews:delete>0</goonews:delete>      <title>富士スピードウェイ「Lexus Circuit Experience 2024春」初級レッスン</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=v8ja9-2jyx ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=v8ja9-2jyx ]]>      </smp:link>      <category>trend</category>      <pubDate>Thu, 18 Apr 2024 17:00:00 +0900</pubDate>      <goonews:modified>Thu, 18 Apr 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/631abaea4c5e424380bb0513be5ef797/1767_MetaOGImage.jpg" alt="" /></figure><h2>LEXUSオーナー限定初心者向けサーキット/スポーツ走行体験プログラム</h2><p>LEXUS Circuit Experienceは、普段お乗りいただいているLEXUS車の性能を体感いただくとともに、より気軽にサーキットを訪れ、モータースポーツの楽しさに触れていただきたいという思いのもと、富士スピードウェイ、交通安全センターモビリタ、LEXUSが提供するサーキット/スポーツ走行にご興味のある初心者向けのプログラムです。午前中はモビリタ全面協力の下、特設コースでインストラクターによるドライビング特性チェックやスキルアップに向けたアドバイスを行います。さらにレッスン後、国際レーシングコースをご自身のクルマで走行いただく（先導車付）など、各種プログラムをお楽しみいただけます。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/91a818d289af41ff9da51129816cf0d0/image_20240418095652_102324246966206fd4de1e1.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3b549a39f5564516b5a510b4b7efb00e/image_20240418095652_104444077466206fd4de28d.jpg" alt="" /><figcaption></figcaption></figure><h2>―PROGRAM―</h2><p>当日ご体験いただくプログラムの一部をご紹介。<br>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:goonews="http://news.goo.ne.jp/rss/2.0/news/goonews/" xmlns:smp="http://news.goo.ne.jp/rss/2.0/news/smp/" version="2.0">
+   <channel>
+      <title>LEXUS NEWS</title>
+      <link>https://lexus.jp/magazine/</link>
+      <description>LEXUSのニュースをお届けするメディアです</description>
+      <language>ja</language>
+      <copyright>VISIONARY編集部</copyright>
+      <pubDate>Thu, 18 Apr 2024 17:00:00 +0900</pubDate>
+      <item>
+         <guid isPermaLink="false">20240418v8ja9-2jyx</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>富士スピードウェイ「Lexus Circuit Experience 2024春」初級レッスン</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=v8ja9-2jyx]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=v8ja9-2jyx]]></smp:link>
+         <category>trend</category>
+         <pubDate>Thu, 18 Apr 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Thu, 18 Apr 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/631abaea4c5e424380bb0513be5ef797/1767_MetaOGImage.jpg" alt="" /></figure><h2>LEXUSオーナー限定初心者向けサーキット/スポーツ走行体験プログラム</h2><p>LEXUS Circuit Experienceは、普段お乗りいただいているLEXUS車の性能を体感いただくとともに、より気軽にサーキットを訪れ、モータースポーツの楽しさに触れていただきたいという思いのもと、富士スピードウェイ、交通安全センターモビリタ、LEXUSが提供するサーキット/スポーツ走行にご興味のある初心者向けのプログラムです。午前中はモビリタ全面協力の下、特設コースでインストラクターによるドライビング特性チェックやスキルアップに向けたアドバイスを行います。さらにレッスン後、国際レーシングコースをご自身のクルマで走行いただく（先導車付）など、各種プログラムをお楽しみいただけます。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/91a818d289af41ff9da51129816cf0d0/image_20240418095652_102324246966206fd4de1e1.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3b549a39f5564516b5a510b4b7efb00e/image_20240418095652_104444077466206fd4de28d.jpg" alt="" /><figcaption></figcaption></figure><h2>―PROGRAM―</h2><p>当日ご体験いただくプログラムの一部をご紹介。<br>
 LEXUSの走りを存分に愉しめる多彩なプログラムをご用意いたしました。                        </p><h2>◆スポーツ走行基礎講座</h2><p>プロドライバーによるドライビングポジション、運転操作の基本など、サーキット走行の基礎的なスキルに関する講義を行います。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/4b6ab4b9ff444267abecbb111ec65b95/image_20240418095652_5164766066206fd4de490.jpg" alt="" /><figcaption></figcaption></figure><h2>◆スポーツ走行道場</h2><p>モビリタの特設コースでインストラクター指導の下ハンドリングトレーニング、ブレーキトレーニングおよび低ミュー路体験（データ計測）を行います。<br>
 <br>
 ①低ミュー路体験（データ計測）<br>
@@ -80,14 +99,51 @@ LEXUSの走りを存分に愉しめる多彩なプログラムをご用意いた
 3.製作（匠と共創）<br>
 4.レーザー刻印（LEXUSロゴ、名入れなど）<br>
 5.仕上げ<br>
-6.車両装着                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c09c82691d334eea83083746c480ec09/carousel_7_20240418101642_11686270456620747a0f952.jpg" alt="板金高技能者のアドバイスに基づく製作体験" /><figcaption>板金高技能者のアドバイスに基づく製作体験</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/394dd6239d2b48f1a0c830e6465a73a8/carousel_8_20240418101642_12659169676620747a0f9f8.jpg" alt="ハンマーを使った槌目打痕入れ（イメージ）" /><figcaption>ハンマーを使った槌目打痕入れ（イメージ）</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/313589c43f494158a4fbb11687ce5631/carousel_9_20240418101642_13486378726620747a0fabf.jpg" alt="板金の置時計" /><figcaption>板金の置時計</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c8cb172380ed4eec809197ebc7168b5a/carousel_10_20240418101642_13249992126620747a0fb98.jpg" alt="オリジナルフューエルキャップカバー" /><figcaption>オリジナルフューエルキャップカバー</figcaption></figure><p>以上、皆様のお申し込みをお待ちしております。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240417kn6qcmkl2-qa</guid>      <goonews:delete>0</goonews:delete>      <title>La Festa Primavera 2024開催 ――</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=kn6qcmkl2-qa ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=kn6qcmkl2-qa ]]>      </smp:link>      <category>trend</category>      <pubDate>Wed, 17 Apr 2024 17:00:00 +0900</pubDate>      <goonews:modified>Wed, 17 Apr 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/763decf1acc344a0a310d3c63dd0e3b7/1768_MetaOGImage.jpg" alt="" /></figure><h2>東海・近畿地方を舞台に、La Festa Primavera 2024開催</h2><p>東海・近畿地方を舞台に、多くの由緒ある観光名所や風光明媚な景勝地を巡る走行ルート。1日目は、名古屋市熱田神宮を出発し、数々の名所を誇る三重県伊勢・鳥羽へ。伊勢神宮、鳥羽展望台などを訪問。2日目には志摩を出発し、伊勢の街中にあるおかげ横丁を通り抜け、和歌山県白浜町に向かって美しく続く、海岸沿いの絶景を楽しみながら車を走らせる。そして3日目には奈良県の由緒ある神宮、神社等を巡り、最終日4日目は、福井県の伝統的町並みの熊川宿や滋賀県彦根城を周り、京都市平安神宮、岡崎公園でゴールを迎える。                        </p><h2>La Festaの醍醐味</h2><p>La Festaのエントリー車両は、一つ一つオリジナリティ溢れる魅力的なものばかり。現代の車のような快適性はないものの、五感を使って車を操るという楽しみは、クルマ好きにとって特別なもの。また、量産車両にはない個性溢れるクラシックカーは、美術品、芸術品と言っても過言ではない。<br>
+6.車両装着                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c09c82691d334eea83083746c480ec09/carousel_7_20240418101642_11686270456620747a0f952.jpg" alt="板金高技能者のアドバイスに基づく製作体験" /><figcaption>板金高技能者のアドバイスに基づく製作体験</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/394dd6239d2b48f1a0c830e6465a73a8/carousel_8_20240418101642_12659169676620747a0f9f8.jpg" alt="ハンマーを使った槌目打痕入れ（イメージ）" /><figcaption>ハンマーを使った槌目打痕入れ（イメージ）</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/313589c43f494158a4fbb11687ce5631/carousel_9_20240418101642_13486378726620747a0fabf.jpg" alt="板金の置時計" /><figcaption>板金の置時計</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c8cb172380ed4eec809197ebc7168b5a/carousel_10_20240418101642_13249992126620747a0fb98.jpg" alt="オリジナルフューエルキャップカバー" /><figcaption>オリジナルフューエルキャップカバー</figcaption></figure><p>以上、皆様のお申し込みをお待ちしております。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240417kn6qcmkl2-qa</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>La Festa Primavera 2024開催 ――</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=kn6qcmkl2-qa]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=kn6qcmkl2-qa]]></smp:link>
+         <category>trend</category>
+         <pubDate>Wed, 17 Apr 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Wed, 17 Apr 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/763decf1acc344a0a310d3c63dd0e3b7/1768_MetaOGImage.jpg" alt="" /></figure><h2>東海・近畿地方を舞台に、La Festa Primavera 2024開催</h2><p>東海・近畿地方を舞台に、多くの由緒ある観光名所や風光明媚な景勝地を巡る走行ルート。1日目は、名古屋市熱田神宮を出発し、数々の名所を誇る三重県伊勢・鳥羽へ。伊勢神宮、鳥羽展望台などを訪問。2日目には志摩を出発し、伊勢の街中にあるおかげ横丁を通り抜け、和歌山県白浜町に向かって美しく続く、海岸沿いの絶景を楽しみながら車を走らせる。そして3日目には奈良県の由緒ある神宮、神社等を巡り、最終日4日目は、福井県の伝統的町並みの熊川宿や滋賀県彦根城を周り、京都市平安神宮、岡崎公園でゴールを迎える。                        </p><h2>La Festaの醍醐味</h2><p>La Festaのエントリー車両は、一つ一つオリジナリティ溢れる魅力的なものばかり。現代の車のような快適性はないものの、五感を使って車を操るという楽しみは、クルマ好きにとって特別なもの。また、量産車両にはない個性溢れるクラシックカーは、美術品、芸術品と言っても過言ではない。<br>
 走る・曲がる・停まることを自力で行わなければならず不便とも言える。とはいえ、ドライバー達はそうした車両に敬意と愛情を持って向かい合い、整備し、子供のように目を輝かせながら、過酷な4日間の行程を走り抜ける。<br>
 利便性が優先されるこの時代に、便利とは逆の“苦難を乗り越え目標を達成すること”を楽しむこと。これこそがLa Festaの醍醐味である。                        </p><h2>三つの基本精神とクラシックカーの春の冒険</h2><p>大会が始まった1997年から一貫して掲げ、La Festaが大事にする三つの基本精神、<br>
 <br>
@@ -100,14 +156,51 @@ LEXUSの走りを存分に愉しめる多彩なプログラムをご用意いた
 <br>
 LEXUSは、このイベントを通じ、互いのクラシックカーへの想いや価値を認め合う参加者の姿に共感し、協賛を続けている。                        </p><p>ルート詳細等、大会公式HPはこちら：<br>
 <a href="https://www.lafesta-primavera.com/2024/" target="_blank" onclick="sc('lexus:magazine:article:20240418-1768-car_lafesta.html:article-www.lafesta-primavera.com');">https://www.lafesta-primavera.com/2024/</a><br>
-                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/e1024d75df4544589da01c8c4720c2b2/carousel_10_20240417145948_623619752661f65545084f.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/d8ee04825512426783c84a5cf6a873db/carousel_11_20240417145948_1996608916661f655450901.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/240e20476eca4c9892d12ce7d9606340/carousel_12_20240417145948_399516488661f6554509c2.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/076e9773c24b4a5bbe34732cf74cee47/carousel_13_20240417145948_1661538547661f655450b2d.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/02391ea3e49e4f4280bdf588f46296e0/carousel_14_20240417145948_405065450661f655450bf4.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ab5e6cd66e8c45b9841ac21d317a52dc/carousel_15_20240417145948_1687396868661f655450cc6.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/bda348e062c74a15a52fae086fbbf787/carousel_16_20240417145948_2030639733661f655450d70.jpg" alt="" /><figcaption></figcaption></figure> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240410pxu2idr0xhna</guid>      <goonews:delete>0</goonews:delete>      <title>TOUR REPORT -バレロテキサスオープン</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=pxu2idr0xhna ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=pxu2idr0xhna ]]>      </smp:link>      <category>trend</category>      <pubDate>Wed, 10 Apr 2024 17:00:00 +0900</pubDate>      <goonews:modified>Wed, 10 Apr 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ee1f12b363164a3eb90f143e0681af12/1764_MetaOGImage.jpg" alt="" /></figure><h2>好調をしっかりと継続して7位タイ 初めて連続トップ10からマスターズへ</h2><p>　ここ数年、「バレロテキサスオープン」を戦ってマスターズトーナメントへと向かうスケジュールが松山英樹の定番となっており、今年もそれは変わらない。悲願の初メジャー制覇を果たした2021年もそうだった。前2週のオフにおける練習とトレーニングでは身体に痛みが出たということだが、一方でショットは、「かなり良い状態だと思います」と、松山にしては珍しく高い自己評価。今大会はもちろん、マスターズに向けても期待が高まる。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/e3767a4c06a444ec9e8dc88011181616/image_20240409102420_1842627102661498c421149.jpg" alt="" /><figcaption></figcaption></figure><p>　初日は、その言葉とは裏腹に、8番パー5からの3連続バーディーに対してボギーも4つ数え、1オーバーの80位タイ（首位と10打差）と、やや低調な滑り出しとなった。ただ、この結果は、休みの間に調整してきた部分を、実戦の場で“答え合わせ”してみたが、少しだけ違っていたというようなものかもしれない。松山も、「ショットもパットもショートゲームもすべてが、自分の思っている状態とは違ったという感じですね」とホールアウト後に語っている。ここからさらに微調整を加え、完全な状態にしていければ問題はない。<br>
+                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/e1024d75df4544589da01c8c4720c2b2/carousel_10_20240417145948_623619752661f65545084f.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/d8ee04825512426783c84a5cf6a873db/carousel_11_20240417145948_1996608916661f655450901.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/240e20476eca4c9892d12ce7d9606340/carousel_12_20240417145948_399516488661f6554509c2.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/076e9773c24b4a5bbe34732cf74cee47/carousel_13_20240417145948_1661538547661f655450b2d.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/02391ea3e49e4f4280bdf588f46296e0/carousel_14_20240417145948_405065450661f655450bf4.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ab5e6cd66e8c45b9841ac21d317a52dc/carousel_15_20240417145948_1687396868661f655450cc6.jpg" alt="" /><figcaption></figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/bda348e062c74a15a52fae086fbbf787/carousel_16_20240417145948_2030639733661f655450d70.jpg" alt="" /><figcaption></figcaption></figure>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240410pxu2idr0xhna</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>TOUR REPORT -バレロテキサスオープン</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=pxu2idr0xhna]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=pxu2idr0xhna]]></smp:link>
+         <category>trend</category>
+         <pubDate>Wed, 10 Apr 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Wed, 10 Apr 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ee1f12b363164a3eb90f143e0681af12/1764_MetaOGImage.jpg" alt="" /></figure><h2>好調をしっかりと継続して7位タイ 初めて連続トップ10からマスターズへ</h2><p>　ここ数年、「バレロテキサスオープン」を戦ってマスターズトーナメントへと向かうスケジュールが松山英樹の定番となっており、今年もそれは変わらない。悲願の初メジャー制覇を果たした2021年もそうだった。前2週のオフにおける練習とトレーニングでは身体に痛みが出たということだが、一方でショットは、「かなり良い状態だと思います」と、松山にしては珍しく高い自己評価。今大会はもちろん、マスターズに向けても期待が高まる。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/e3767a4c06a444ec9e8dc88011181616/image_20240409102420_1842627102661498c421149.jpg" alt="" /><figcaption></figcaption></figure><p>　初日は、その言葉とは裏腹に、8番パー5からの3連続バーディーに対してボギーも4つ数え、1オーバーの80位タイ（首位と10打差）と、やや低調な滑り出しとなった。ただ、この結果は、休みの間に調整してきた部分を、実戦の場で“答え合わせ”してみたが、少しだけ違っていたというようなものかもしれない。松山も、「ショットもパットもショートゲームもすべてが、自分の思っている状態とは違ったという感じですね」とホールアウト後に語っている。ここからさらに微調整を加え、完全な状態にしていければ問題はない。<br>
 <br>
 　2日目も、「やってはいけないミスが多々出ている」という内容で万全とはいかなかったが、それでもきっちり予選カットラインを乗り超えてきたのはさすがだ。10番からスタートしてボギーが2つ先行したものの、28ヤードのバンカーショットを70cmに寄せた14番のパー5を手始めに、18、5、6番と4つのバーディーで挽回。なかでも5番は、花道から6ヤードの3打目を入れたもので、今大会では、ダブルボギーを回避した初日の17番の5打目に続く2つ目のチップインだった。通算1アンダーで34位タイ。トップとの差は初日と変わらず10打だが、10位タイにはわずか2打差だから、上位進出は充分に狙える。<br>
 <br>
@@ -122,14 +215,51 @@ LEXUSは、このイベントを通じ、互いのクラシックカーへの想
 　あと少しの修正しなければならない部分は、もう充分にわかっていることだろう。開幕まで残り3日間。2度目の制覇に向けて、最後の詰めの作業に力が入る。<br>
 <br>
 通算スコア：-8<br>
-順位：7T                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240402xd1q0g4pi</guid>      <goonews:delete>0</goonews:delete>      <title>TOUCH JAPAN JOURNEY ――奥入瀬・十和田</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=xd1q0g4pi ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=xd1q0g4pi ]]>      </smp:link>      <category>trend</category>      <pubDate>Tue, 02 Apr 2024 17:00:00 +0900</pubDate>      <goonews:modified>Tue, 02 Apr 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/f945e1e7e46942438425260c51fa41f7/keyImage_4725f1c9448_MetaOGImage.jpg" alt="" /></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ea2e79ad0b704fbea4d44b384aaf4d20/image_20240328145631_524600266605068fd04c1.jpg" alt="" /><figcaption></figcaption></figure><h2>新緑の奥入瀬と十和田湖を巡るドライブ旅へ</h2><p>Arts Towadaを代表する「十和田市現代美術館」。青森りんごスイーツの人気店「a la ringo」。そして景勝地として名高い「奥入瀬渓流」と「十和田湖畔」を爽快に走るLEXUSドライブ。高台から十和田湖を臨む歴史ある名宿「十和田ホテル」、大自然に五感で触れる「ネイチャーアクティビティ」。<br>
+順位：7T                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240402xd1q0g4pi</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>TOUCH JAPAN JOURNEY ――奥入瀬・十和田</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=xd1q0g4pi]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=xd1q0g4pi]]></smp:link>
+         <category>trend</category>
+         <pubDate>Tue, 02 Apr 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Tue, 02 Apr 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/f945e1e7e46942438425260c51fa41f7/keyImage_4725f1c9448_MetaOGImage.jpg" alt="" /></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ea2e79ad0b704fbea4d44b384aaf4d20/image_20240328145631_524600266605068fd04c1.jpg" alt="" /><figcaption></figcaption></figure><h2>新緑の奥入瀬と十和田湖を巡るドライブ旅へ</h2><p>Arts Towadaを代表する「十和田市現代美術館」。青森りんごスイーツの人気店「a la ringo」。そして景勝地として名高い「奥入瀬渓流」と「十和田湖畔」を爽快に走るLEXUSドライブ。高台から十和田湖を臨む歴史ある名宿「十和田ホテル」、大自然に五感で触れる「ネイチャーアクティビティ」。<br>
 清らかさと生命力溢れる景観、木漏れ日と緑の匂いに思わず深呼吸してしまうような、春の東北ならではの心豊かな旅をお楽しみください。                        </p><h2>DAY1／プラン概要</h2><p>七戸十和田駅または三沢空港からLEXUSに乗り込み「十和田市現代美術館」へ。心くすぐる現代アートに触れたら、いよいよ奥入瀬・十和田湖方面へドライブ開始。途中道の駅では「a la ringo」のスイーツとともにひと休み。ここから奥入瀬渓流を真横に見ながら、春の木漏れ日の中を抜けて十和田湖へ。湖畔を右手に眺めて進むと、歴史と天然木の趣が溢れる「十和田ホテル」に到着。東北の食を愉しむ特別ディナーや、湖を臨むお部屋と露天風呂など、大自然の中で癒しと寛ぎの時間をお過ごしください。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7d86dfd8aae54dea8ec1fe870eac6242/carousel_10_20240328145631_20506343746605068fd0859.jpg" alt="青森の人気スポットのひとつ「十和田市現代美術館」（撮影：太田拓実）世界のアーティストたちのユニークな作品の数々に驚きを隠せない" /><figcaption>青森の人気スポットのひとつ「十和田市現代美術館」（撮影：太田拓実）世界のアーティストたちのユニークな作品の数々に驚きを隠せない</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7772dd5062ec465183385733e031db4a/carousel_11_20240328145631_2331732006605068fd0927.jpg" alt="青森のりんごを使ったスイーツの名店「a la ringo（あら、りんご。）」オシャレですっきりした空間が心地よい（道の駅奥入瀬ろまんパーク内）" /><figcaption>青森のりんごを使ったスイーツの名店「a la ringo（あら、りんご。）」オシャレですっきりした空間が心地よい（道の駅奥入瀬ろまんパーク内）</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/9a909adcda714ebe82fb6a3b303a5a76/carousel_12_20240328145631_14225710586605068fd09e8.jpg" alt="TOUCH JAPAN JOURNEY 開催記念「LEXUSコラボ限定スイーツ」にもご期待ください　※画像はイメージです" /><figcaption>TOUCH JAPAN JOURNEY 開催記念「LEXUSコラボ限定スイーツ」にもご期待ください　※画像はイメージです</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/89d0e5c387f14a2fa5fa5652dcb98f6f/carousel_13_20240328145631_10010583146605068fd0aa7.jpg" alt="清流に沿って春の木漏れ日の中を走る「奥入瀬渓流ドライブ」。これほど川の近くを走るルートは見たことがない" /><figcaption>清流に沿って春の木漏れ日の中を走る「奥入瀬渓流ドライブ」。これほど川の近くを走るルートは見たことがない</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a40517b12ec141adb3a2aa00fc12c57f/carousel_14_20240328145631_2939423886605068fd0b68.jpg" alt="十和田湖畔を回り、木造三階建ての登録有形文化財「十和田ホテル」へ。秋田杉をはじめ木の趣が溢れるエントランスは圧巻" /><figcaption>十和田湖畔を回り、木造三階建ての登録有形文化財「十和田ホテル」へ。秋田杉をはじめ木の趣が溢れるエントランスは圧巻</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/43800b1d657c4748959cf921d2113961/carousel_15_20240328145631_693817366605068fd0c17.jpg" alt="東北の春の味覚を堪能する「特別ディナー」※画像はイメージです" /><figcaption>東北の春の味覚を堪能する「特別ディナー」※画像はイメージです</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/0aa2ed53cb2f4a379da1cef420243d01/carousel_16_20240328145631_1246707216605068fd0cbb.jpg" alt="高台から臨む十和田湖の眺めと寛ぎの時間" /><figcaption>高台から臨む十和田湖の眺めと寛ぎの時間</figcaption></figure><h2>DAY2／プラン概要</h2><p>2日目は奥入瀬・十和田の大自然に五感で触れる一日に。朝の冴えわたる空気の中、光り輝く湖面と朝焼け空を求めて漕ぎ進む「早朝十和田湖カヌー（オプション）」や、奥入瀬の美しい流れの中をゆっくりと歩く「ネイチャーランブリング」など、春の自然の息吹を全身で感じましょう。森のレストランでのフェアウェルランチを終えたら、奥入瀬渓流に沿って十和田市方面へ。駅または空港まで、LEXUSドライブを存分にお楽しみいただきます。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c6136532cdab4820a07e706c5f34430b/carousel_9_20240328150112_1488320823660507a802e9d.jpg" alt="十和田湖を眺め、澄んだ空気に包まれる朝の時間。ゆっくりと朝食を済ませてラウンジへ　※早朝体験オプションもあり" /><figcaption>十和田湖を眺め、澄んだ空気に包まれる朝の時間。ゆっくりと朝食を済ませてラウンジへ　※早朝体験オプションもあり</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/cf6997d7593d4c01968f791caa318c17/carousel_10_20240328150112_1170335981660507a802f6b.jpg" alt="冴えわたる空気の中、光さす瞬間を求めて進む「早朝十和田湖カヌー」※早朝体験オプション" /><figcaption>冴えわたる空気の中、光さす瞬間を求めて進む「早朝十和田湖カヌー」※早朝体験オプション</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/d3cfedb28ed5417ab863c45e72cc4cc8/carousel_11_20240328150112_247867918660507a803016.jpg" alt="LEXUSでの十和田湖畔ツーリングドライブ。湖畔から少し外れてワインディングを駆け上がれば、湖を臨む絶景ポイントも" /><figcaption>LEXUSでの十和田湖畔ツーリングドライブ。湖畔から少し外れてワインディングを駆け上がれば、湖を臨む絶景ポイントも</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3ca29e3b774240c8bdaf9d9fcd06734e/carousel_12_20240328150112_1788469372660507a8030c2.jpg" alt="足元の小さな苔、清らかな水流と生命力溢れる木々たち。目線を移しながら森の息吹を全身で感じる「奥入瀬渓流ネイチャーランブリング」" /><figcaption>足元の小さな苔、清らかな水流と生命力溢れる木々たち。目線を移しながら森の息吹を全身で感じる「奥入瀬渓流ネイチャーランブリング」</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3e9b100f827a4a9f9ca0ad82546a601e/carousel_13_20240328150112_178122727660507a80316d.jpg" alt="木々の合間から降り注ぐ木漏れ日の中を歩く。太陽と緑の匂いに大きく深呼吸したくなる　※画像は秋-冬イメージです" /><figcaption>木々の合間から降り注ぐ木漏れ日の中を歩く。太陽と緑の匂いに大きく深呼吸したくなる　※画像は秋-冬イメージです</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/df3deb0aca874af09b562bec63ec4dcb/carousel_14_20240328150112_1684044176660507a803217.jpg" alt="森のホテルでのフェアウェルランチの後は、奥入瀬渓流を眺めながら十和田市方面へ　※画像はイメージです" /><figcaption>森のホテルでのフェアウェルランチの後は、奥入瀬渓流を眺めながら十和田市方面へ　※画像はイメージです</figcaption></figure><p>プランのご案内<br>
 <br>
 ◆プラン名：TOUCH JAPAN JOURNEY by LEXUS「奥入瀬・十和田」<br>
@@ -194,14 +324,51 @@ LEXUSは、このイベントを通じ、互いのクラシックカーへの想
 　MAIL： support@xperisus.com<br>
 <br>
 <br>
-以上、皆様のお申し込みをお待ちしております。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240328bafrcpkm1</guid>      <goonews:delete>0</goonews:delete>      <title>愛車のパフォーマンスを体感 LEXUSのサーキットプログラム</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=bafrcpkm1 ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=bafrcpkm1 ]]>      </smp:link>      <category>trend</category>      <pubDate>Thu, 28 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Thu, 28 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3fddb61ece4a4a9bab5e77ae6fb9847c/keyImage_1a3b7e65a64_MetaOGImage.jpg" alt="" /></figure><p>多様化するお客様のライフスタイルに寄り添い、唯一無二の体験価値提供を目指すLEXUS。<br>
+以上、皆様のお申し込みをお待ちしております。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240328bafrcpkm1</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>愛車のパフォーマンスを体感 LEXUSのサーキットプログラム</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=bafrcpkm1]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=bafrcpkm1]]></smp:link>
+         <category>trend</category>
+         <pubDate>Thu, 28 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Thu, 28 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3fddb61ece4a4a9bab5e77ae6fb9847c/keyImage_1a3b7e65a64_MetaOGImage.jpg" alt="" /></figure><p>多様化するお客様のライフスタイルに寄り添い、唯一無二の体験価値提供を目指すLEXUS。<br>
 LEXUSがオーナーだけに「愛車」との対話を楽しめる体験の場として提供するプログラムのひとつに「Lexus Circuit Experience」がある。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/70000f9556b946eb926fc6673ed486eb/image_20240326163450_64449827966027a9a01dc4.jpg" alt="" /><figcaption></figcaption></figure><p>スポーツ走行を通して、「愛車」のポテンシャルや、モータースポーツの魅力を感じてもらいたい。気軽にサーキットに訪れて、モータースポーツの楽しさも感じてもらいたい。<br>
 <br>
 この想いからスタートした「Lexus Circuit Experience」は、富士スピードウェイ、トヨタ交通安全センター モビリタ、LEXUSが提供する初心者向けの体験プログラムとなっている。                        </p><h2>スポーツ走行道場での鍛錬</h2><p>「Lexus Circuit Experience」は座学からスタートする。どんなスキルを持っていても安全にスポーツドライビングを楽しむためには“基礎”が最も重要だという。<br>
@@ -234,14 +401,51 @@ LEXUSがオーナーだけに「愛車」との対話を楽しめる体験の場
 <br>
 高精度の位置情報を基にしたピンポイントの音声ガイドにより、まるで実際にナビゲーターが同乗し、それぞれのポイントで助言をされているかのような体験が味わえる。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3cb9003812384744a685e36f1e170b40/image_20240326163450_53315708566027a9a03446.jpg" alt="" /><figcaption></figcaption></figure><p>先導車がペースコントロールして安全を確保しながら、ピットアウトの瞬間の伸びやかな加速や各コーナリングでの横G、高い速度域で駆け抜けるホームストレートなど、FSWのレーシングコースを堪能できる内容となっている。<br>
 <br>
-一般道では決して味わうことができない領域で、愛車のポテンシャルを感じLEXUSの魅力を再発見する「Lexus Circuit Experience」。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ddd456511a5f402e9cf45bcc2003f74d/image_20240326163450_130927544066027a9a0359d.jpg" alt="" /><figcaption></figcaption></figure><p>全プログラムを終えると心地よい疲れと高揚感とともに、最初の座学で聞いた「クルマを知り、道を知り、己を知る。これがドライビングスキルの上達、ひいては安全運転への究極の近道」という言葉の意味が染み渡る。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/d941aebaff844634b18b1d80977196f0/image_20240326163450_121849582966027a9a036f6.jpg" alt="" /><figcaption></figcaption></figure><p>「体験」を通じて、全てのお客様がクルマとともに過ごすライフスタイルを豊かにしたい。LEXUSはこのような想いの下、ドライビングレッスンの他にも旅やオフロード体験などお客様に寄り添った多様なプログラムの提供を目指す。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240327m7a9m_czo34</guid>      <goonews:delete>0</goonews:delete>      <title>「LY」のデザインからみるLEXUS</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=m7a9m_czo34 ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=m7a9m_czo34 ]]>      </smp:link>      <category>trend</category>      <pubDate>Wed, 27 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Wed, 27 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/388a02cd10ae45a2a6aab1d4568c5a28/keyImage_a3b7e65a645_MetaOGImage.jpg" alt="" /></figure><h2>海におけるFun to Drive</h2><p>「LY650は、ラグジュアリーライフスタイルブランドを目指すLEXUSの、クルマに留まらない挑戦の象徴です。先進的で高品質なLY650が、世界中の海でその美しい姿を披露することを、本当に楽しみにしています。<br>
+一般道では決して味わうことができない領域で、愛車のポテンシャルを感じLEXUSの魅力を再発見する「Lexus Circuit Experience」。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ddd456511a5f402e9cf45bcc2003f74d/image_20240326163450_130927544066027a9a0359d.jpg" alt="" /><figcaption></figcaption></figure><p>全プログラムを終えると心地よい疲れと高揚感とともに、最初の座学で聞いた「クルマを知り、道を知り、己を知る。これがドライビングスキルの上達、ひいては安全運転への究極の近道」という言葉の意味が染み渡る。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/d941aebaff844634b18b1d80977196f0/image_20240326163450_121849582966027a9a036f6.jpg" alt="" /><figcaption></figcaption></figure><p>「体験」を通じて、全てのお客様がクルマとともに過ごすライフスタイルを豊かにしたい。LEXUSはこのような想いの下、ドライビングレッスンの他にも旅やオフロード体験などお客様に寄り添った多様なプログラムの提供を目指す。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240327m7a9m_czo34</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>「LY」のデザインからみるLEXUS</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=m7a9m_czo34]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=m7a9m_czo34]]></smp:link>
+         <category>trend</category>
+         <pubDate>Wed, 27 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Wed, 27 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/388a02cd10ae45a2a6aab1d4568c5a28/keyImage_a3b7e65a645_MetaOGImage.jpg" alt="" /></figure><h2>海におけるFun to Drive</h2><p>「LY650は、ラグジュアリーライフスタイルブランドを目指すLEXUSの、クルマに留まらない挑戦の象徴です。先進的で高品質なLY650が、世界中の海でその美しい姿を披露することを、本当に楽しみにしています。<br>
 <br>
 私達は、モビリティカンパニーとして、海においても新しいモビリティの可能性を追求してまいります」<br>
 <br>
@@ -270,14 +474,51 @@ LEXUSがオーナーだけに「愛車」との対話を楽しめる体験の場
 それは広いベッドを備えたオーナーズベッドルーム、大きなレクサスロゴを床にあしらったメインキャビンの随所に見られる木材とレザー、メタルパーツの切り替えで表現したコントラストから見て取ることができる。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/fac94aa80ace44faa300904c4ca4848b/carousel_6_20240327182233_19425054926603e55986bab.jpg" alt="ベッドルームは3室。採光のよい窓のついたオーナーズベッドルームには、シャワーや洗面、ソファーを備える。※写真はLY650" /><figcaption>ベッドルームは3室。採光のよい窓のついたオーナーズベッドルームには、シャワーや洗面、ソファーを備える。※写真はLY650</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/3c7d1c037eeb45f7bf29c392d1783dee/carousel_7_20240327182233_6705489286603e55986c57.jpg" alt="ホワイトを基調にしたクリーンな印象のキャビン。ブラウンのウッドとのコントラストで非日常空間を作り上げる。天井部分にはFRPを使用し、間接照明により穏やかな光で満ちる。※写真はLY650" /><figcaption>ホワイトを基調にしたクリーンな印象のキャビン。ブラウンのウッドとのコントラストで非日常空間を作り上げる。天井部分にはFRPを使用し、間接照明により穏やかな光で満ちる。※写真はLY650</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/af4935d99288447f84ca21b6606376cd/carousel_8_20240327183115_19981936026603e7633cfab.jpg" alt="テーブルの脚はレクサスのLを表現しており、遊び心隠されている。※写真はLY650" /><figcaption>テーブルの脚はレクサスのLを表現しており、遊び心隠されている。※写真はLY650</figcaption></figure><p>ちなみにこだわりのポイントはコクピット。「クルマ屋としてはコクピットには特に他の船と違う要素を出したい」と、レザーやカーボンパーツの配置や白いステアリング、そして構造要素のラインの繋がりと連続性といったところを丁寧に作り込んだという。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/325629bbadcc48d288de19cf82badf4e/carousel_5_20240327183115_5839690746603e7633d10d.jpg" alt="奥のレザーパネルには流れるようなステッチをあしらったコクピット。柔らかさを表現することにより操縦者が包み込まれる安心感を得られるという。※写真はLY650" /><figcaption>奥のレザーパネルには流れるようなステッチをあしらったコクピット。柔らかさを表現することにより操縦者が包み込まれる安心感を得られるという。※写真はLY650</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/b8ac16c93c5a4fbbaf92e3826d08c4e7/carousel_6_20240327183115_5704373886603e7633d1b8.jpg" alt="※写真はLY650" /><figcaption>※写真はLY650</figcaption></figure><p>LY650からお客様のご要望に基づきフライブリッジとスイングプラットフォームなど一部改良して2024年3月21日に発表され、ジャパンインターナショナルボートショー2024（3月21日～24日、パシフィコ横浜）で1/20サイズのスケールモデルが出展された<a href="/models/ly/" onclick="sc('lexus:magazine:article:20240328-1762-art_interview.html:article-:models:ly:');">LY680</a>。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/916b43e3a6b94ac9bad948fb13d29723/carousel_6_20240327183457_21017297646603e84182ae2.jpg" alt="ジャパンインターナショナルボートショー2024で展示されたLY680の1/20サイズスケールモデル" /><figcaption>ジャパンインターナショナルボートショー2024で展示されたLY680の1/20サイズスケールモデル</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ddd4be794a6d48ecaa4c4417781662a4/carousel_7_20240327183457_3231914476603e84182b93.jpg" alt="ジャパンインターナショナルボートショー2024で展示されたLY680の1/20サイズスケールモデル" /><figcaption>ジャパンインターナショナルボートショー2024で展示されたLY680の1/20サイズスケールモデル</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a822b014b9b84427b43171c9a04ab47d/carousel_8_20240327183457_15577779926603e84182c3e.jpg" alt="1400mm拡張したフライブリッジ" /><figcaption>1400mm拡張したフライブリッジ</figcaption></figure><p>1400mm拡張したフライブリッジにはオプションでバーベキューグリルの設置も可能となった。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/6f5d46a70f234d3eadfe546c84d3b2c3/carousel_9_20240327183457_14234625636603e84182d93.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/29b7e4b20b004ed5a4e8cc511510a2a1/carousel_10_20240327183457_498589056603e84182e3d.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/dbcc7d91a09f41aba469b4581b6fa1f9/carousel_11_20240327183457_8957396896603e84182ee7.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/1edfa521dba14f639ecc694e908905ca/carousel_12_20240327183457_18098467576603e84182f91.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/c128d0908bf3477cbb741328b9ec17a9/carousel_13_20240327183457_8755558226603e8418303c.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/dd2d3ff9a00e481f91a90ac9cf96fcef/carousel_14_20240327183457_20291370676603e841830e6.jpg" alt="写真はLY680" /><figcaption>写真はLY680</figcaption></figure><p>「海の真ん中で、本物を知る人が素の自分に戻れる、隠れ家のような空間」をコンセプトにつくられたラグジュアリーヨットLY。<br>
 <br>
 海でのモビリティにおけるラグジュアリーと非日常体験を、LEXUSは今後どのように叶えていくのか。海のモビリティにおけるLEXUSの挑戦に期待を込めて見つめていただきたい。<br>
-</p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240326d-npp-52d</guid>      <goonews:delete>0</goonews:delete>      <title>LEXUSのエンジニアが挑んだエアレース</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=d-npp-52d ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=d-npp-52d ]]>      </smp:link>      <category>trend</category>      <pubDate>Tue, 26 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Tue, 26 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/01fc6fda1bb34817a97415075bed0735/keyImage_3b7e65a645f_MetaOGImage.jpg" alt="" /></figure><h2>クルマ屋の常識が通用しないエアレースの世界</h2><p>室屋義秀選手とエアレースのエンジニアと共にLEXUSのエンジニアが参加して2017年から開始された「空」と「陸」の技術交流。<br>
+</p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240326d-npp-52d</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>LEXUSのエンジニアが挑んだエアレース</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=d-npp-52d]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=d-npp-52d]]></smp:link>
+         <category>trend</category>
+         <pubDate>Tue, 26 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Tue, 26 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/01fc6fda1bb34817a97415075bed0735/keyImage_3b7e65a645f_MetaOGImage.jpg" alt="" /></figure><h2>クルマ屋の常識が通用しないエアレースの世界</h2><p>室屋義秀選手とエアレースのエンジニアと共にLEXUSのエンジニアが参加して2017年から開始された「空」と「陸」の技術交流。<br>
 <br>
 その技術交流チームが本格的なレーシングチームとして活動を開始したのが、2021年10月に立ち上がったLEXUS PATHFINDER AIR RACINGだ。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/dd31a65b81704354b01736399c8871ac/image_20240326155100_39625983466027054236c0.jpg" alt="" /><figcaption></figcaption></figure><p>チーム立ち上げ時に掲げたミッションは2つ。それは、「エアレースで勝つ」、「エアレースで新技術を創出し、もっといいクルマづくりに繋げる」こと。<br>
 <br>
@@ -387,14 +628,51 @@ LEXUSのクルマにもHUＤは採用されている。しかし、飛行機の�
 <br>
 しかし、室屋選手とPATHFINDER AIR RACINGの挑戦は止まらない。2024年3月25日に発表された<a href="https://www.airracex.com/JP/news/240315.html" target="_blank" onclick="sc('lexus:magazine:article:20240327-1761-spo_muroya.html:article-www.airracex.com');">AIR RACE X 2024年シリーズ </a>。<br>
 <br>
-室屋選手は「今年はシリーズ戦となり、いよいよチームの総合力が試されますので、シリーズチャンピオンを獲得したいです。また、機体の空力改善やパイロット支援システムなどの研究開発の成果がどうタイムアップにつながるかが楽しみです。」とAIR RACE Xでライバルチームへ挑む。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">202403262_2xpo-p2</guid>      <goonews:delete>0</goonews:delete>      <title>HIDEKITOURNAMENT #23</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=2_2xpo-p2 ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=2_2xpo-p2 ]]>      </smp:link>      <category>trend</category>      <pubDate>Tue, 26 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Tue, 26 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7e51651c1b8c4afdbb2f0cb5340a28ea/keyImage_b7e65a645f2_MetaOGImage.jpg" alt="" /></figure><h2>OFF THE TOURNAMENT #23</h2><p>松山選手のトーナメントコース以外での表情や、雑誌など他では取り上げられないアイテムとは？<br>
+室屋選手は「今年はシリーズ戦となり、いよいよチームの総合力が試されますので、シリーズチャンピオンを獲得したいです。また、機体の空力改善やパイロット支援システムなどの研究開発の成果がどうタイムアップにつながるかが楽しみです。」とAIR RACE Xでライバルチームへ挑む。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">202403262_2xpo-p2</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>HIDEKITOURNAMENT #23</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=2_2xpo-p2]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=2_2xpo-p2]]></smp:link>
+         <category>trend</category>
+         <pubDate>Tue, 26 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Tue, 26 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7e51651c1b8c4afdbb2f0cb5340a28ea/keyImage_b7e65a645f2_MetaOGImage.jpg" alt="" /></figure><h2>OFF THE TOURNAMENT #23</h2><p>松山選手のトーナメントコース以外での表情や、雑誌など他では取り上げられないアイテムとは？<br>
 試合では見られない日常的な一面をご紹介していきます。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7c3a07bda7a7449081bd687de429cc61/image_20240319102730_190528203165f8ea02ecc6c.jpg" alt="" /><figcaption></figcaption></figure><p>PGAツアーのフロリダシリーズで、オーランドの家に帰ってきました。<br>
 <br>
 自宅にはクラブがたくさん並んでいます。<br>
@@ -407,14 +685,51 @@ LEXUSのクルマにもHUＤは採用されている。しかし、飛行機の�
 <br>
 高校時代のものから、初めてマスターズに出場した時に使ったアイアンも大切に残しています。<br>
 <br>
-松山英樹                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240324thk5xcugag</guid>      <goonews:delete>0</goonews:delete>      <title>モノづくりの楽しさを伝承する板金技能体験</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=thk5xcugag ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=thk5xcugag ]]>      </smp:link>      <category>trend</category>      <pubDate>Sun, 24 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Sun, 24 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/82ebd1b7282b4315b79ad8c467650679/keyImage_7e65a645f2f_MetaOGImage.jpg" alt="" /></figure><h2>モノづくりの楽しさをお客様と共有したい</h2><p>トヨタ自動車創業当時から脈々と受け継がれてきた板金技能。この技能を駆使してお客様を笑顔にする活動が前回紹介した<a href="/magazine/post/?id=gdu6mdqyw2" onclick="sc('lexus:magazine:article:20240325-1760-car_interview.html:article-car_interview.html');">匠工房の活動とそこでつくられるLEXUSフューエルキャップカバー</a>だ。<br>
+松山英樹                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240324thk5xcugag</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>モノづくりの楽しさを伝承する板金技能体験</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=thk5xcugag]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=thk5xcugag]]></smp:link>
+         <category>trend</category>
+         <pubDate>Sun, 24 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Sun, 24 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/82ebd1b7282b4315b79ad8c467650679/keyImage_7e65a645f2f_MetaOGImage.jpg" alt="" /></figure><h2>モノづくりの楽しさをお客様と共有したい</h2><p>トヨタ自動車創業当時から脈々と受け継がれてきた板金技能。この技能を駆使してお客様を笑顔にする活動が前回紹介した<a href="/magazine/post/?id=gdu6mdqyw2" onclick="sc('lexus:magazine:article:20240325-1760-car_interview.html:article-car_interview.html');">匠工房の活動とそこでつくられるLEXUSフューエルキャップカバー</a>だ。<br>
 <br>
 この匠工房がモノづくりの魅力や楽しさをお客様に知っていただきたいと開催した体験イベントが2024年3月2日～3日にレクサスインターナショナルギャラリー青山で開催された。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/99d6470d0d0f4c53bc86dd8b6851f13a/image_20240325134933_18146898786601025d32b0d.jpg" alt="" /><figcaption></figcaption></figure><p>お客様との接点を大切にするこの活動について、開発試作部の田中 悠人主幹は、こう話す。                        </p><p>
 
@@ -441,18 +756,55 @@ LEXUSのクルマにもHUＤは採用されている。しかし、飛行機の�
 時代と共に挑戦し続けて進化を目指す匠工房は、お客様と一体となった活動をこれからも続けていきたいです。
 <br><br>
 
-                        </p><p>匠工房はお客様の声に耳を傾け寄り添うことで、トヨタ自動車とLEXUSのファンを広げる活動をこれからも続けていく。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>
-    <item>      <guid isPermaLink="false">20240321yzwaswafcfn</guid>      <goonews:delete>0</goonews:delete>      <title>LEXUS信州・松本の旅</title>      <link>        <![CDATA[ https://lexus.jp/magazine/post/?id=yzwaswafcfn ]]>      </link>      <smp:link>        <![CDATA[ https://lexus.jp/magazine/post/?id=yzwaswafcfn ]]>      </smp:link>      <category>trend</category>      <pubDate>Thu, 21 Mar 2024 17:00:00 +0900</pubDate>      <goonews:modified>Thu, 21 Mar 2024 17:00:00 +0900</goonews:modified>      <dc:creator/>      <description>        <![CDATA[ <figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a831fda991984e8fa24a60d4ed93e871/keyImage_65a645f2f1f_MetaOGImage.jpg" alt="" /></figure><h2>LEXUS ELECTRIFIED JOURNEY –信州・松本の旅-</h2><p>日本屈指の絶景ドライビングルート「ビーナスライン」でのマイカードライブ、 LEXUSが厳選した充電器のあるお宿でのご宿泊、信州の旬に出会う特別な食体験など、雄大な自然と豊かな文化が残る松本ならではの特別な旅をご用意いたしました。また、LEXUS NEW TAKUMI PROJECT 2016 長野代表 岩原裕右氏による木曽漆塗り体験や、季節に合わせてカスタマイズする乗鞍高原でのネイチャーアクティビティなど、LEXUSの現地パートナーたちが手掛けるオリジナルオプション体験もぜひお楽しみください。<br>
+                        </p><p>匠工房はお客様の声に耳を傾け寄り添うことで、トヨタ自動車とLEXUSのファンを広げる活動をこれからも続けていく。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+      <item>
+         <guid isPermaLink="false">20240321yzwaswafcfn</guid>
+         <goonews:delete>0</goonews:delete>
+         <title>LEXUS信州・松本の旅</title>
+         <link><![CDATA[https://lexus.jp/magazine/post/?id=yzwaswafcfn]]></link>
+         <smp:link><![CDATA[https://lexus.jp/magazine/post/?id=yzwaswafcfn]]></smp:link>
+         <category>trend</category>
+         <pubDate>Thu, 21 Mar 2024 17:00:00 +0900</pubDate>
+         <goonews:modified>Thu, 21 Mar 2024 17:00:00 +0900</goonews:modified>
+         <dc:creator />
+         <description><![CDATA[<figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a831fda991984e8fa24a60d4ed93e871/keyImage_65a645f2f1f_MetaOGImage.jpg" alt="" /></figure><h2>LEXUS ELECTRIFIED JOURNEY –信州・松本の旅-</h2><p>日本屈指の絶景ドライビングルート「ビーナスライン」でのマイカードライブ、 LEXUSが厳選した充電器のあるお宿でのご宿泊、信州の旬に出会う特別な食体験など、雄大な自然と豊かな文化が残る松本ならではの特別な旅をご用意いたしました。また、LEXUS NEW TAKUMI PROJECT 2016 長野代表 岩原裕右氏による木曽漆塗り体験や、季節に合わせてカスタマイズする乗鞍高原でのネイチャーアクティビティなど、LEXUSの現地パートナーたちが手掛けるオリジナルオプション体験もぜひお楽しみください。<br>
 ※本プランは「LEXUS ELECTIRFIED PROGRAM」のお客様限定・特別価格でのご案内となります                        </p><h2>DAY1／モデルプラン</h2><p>旅のスタートは重厚で美しい蔵造りのヒカリヤでランチを楽しみます。信州の恵みをふんだんに使用したお料理は、フレンチまたは日本料理からお選びいただけます。食後はぜひ絶景ドライブルート「ビーナスライン」へ。変化に富んだワインディングと、標高が上がるにつれて開けていく八ヶ岳連峰やアルプスの山並みを感じながら、思う存分マイカードライブをお楽しみください。ご宿泊は、渓谷に佇む一軒宿「扉温泉 明神館」、浅間温泉の新旧の記憶を繋ぐ「松本十帖」からご選択いただけます。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/ad7e9de1e3d64c2aadf36fbd6fc75f1d/carousel_9_20240321141755_201143948465fbc3033f2be.jpg" alt="旧善光寺街道に面したヒカリヤは、母屋を日本料理店、蔵をフレンチ料理店に改装。ひとつの敷地内に和洋ふたつの名店が並ぶ" /><figcaption>旧善光寺街道に面したヒカリヤは、母屋を日本料理店、蔵をフレンチ料理店に改装。ひとつの敷地内に和洋ふたつの名店が並ぶ</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a93927c11a0640fca1e931c4e29b68c2/carousel_10_20240321141755_98180698065fbc3033f36a.jpg" alt="街道に面して続く黒壁は100年以上の時を経ても凛とした佇まいを見せる" /><figcaption>街道に面して続く黒壁は100年以上の時を経ても凛とした佇まいを見せる</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/45c08b33f60f4833ae5f58231f27a02c/carousel_11_20240321141755_35787460865fbc3033f416.jpg" alt="ヒカリヤニシでは、信州の地元食材をシェフの哲学から生まれたナチュレフレンチでご堪能ください　※画像はイメージです" /><figcaption>ヒカリヤニシでは、信州の地元食材をシェフの哲学から生まれたナチュレフレンチでご堪能ください　※画像はイメージです</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/67ed824112024e05be48d20bb03c13c5/carousel_12_20240321141755_18219820265fbc3033f4c0.jpg" alt="松本ゆかりの襖絵や屏風が飾られた趣あるヒカリヤヒガシ。季節感あふれる繊細な日本料理をご賞味ください　※画像はイメージです" /><figcaption>松本ゆかりの襖絵や屏風が飾られた趣あるヒカリヤヒガシ。季節感あふれる繊細な日本料理をご賞味ください　※画像はイメージです</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7f695b0cbc4c4472b4aaa18f1831ced6/carousel_13_20240321141755_25627941965fbc3033f56b.jpg" alt="ランチ後にはぜひ、LEXUSがお薦めするドライブマップに沿って日本屈指の絶景ルート「ビーナスライン」へ" /><figcaption>ランチ後にはぜひ、LEXUSがお薦めするドライブマップに沿って日本屈指の絶景ルート「ビーナスライン」へ</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/360029f1d6314fdd8b6c0d6a18c29763/carousel_14_20240321141755_47799091165fbc3033f615.jpg" alt="城下町の風情と佇まいを残す松本市内。冬の時期も気ままに散策を楽しむことができる（11月中旬～4月下旬：ビーナスライン閉鎖期間）" /><figcaption>城下町の風情と佇まいを残す松本市内。冬の時期も気ままに散策を楽しむことができる（11月中旬～4月下旬：ビーナスライン閉鎖期間）</figcaption></figure><h2>厳選の宿 01／扉温泉 明神館</h2><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/9520e2fc70fb4d8e944b2a8dce062c34/image_20240321141859_81931208765fbc343eaf3d.jpg" alt="" /><figcaption></figcaption></figure><p>大自然に囲まれた「扉温泉」の渓谷に佇む、世界に誇る名旅館。<br>
 名画に没入するかのような温泉と贅沢な静寂空間で存分にお寛ぎください。<br>
 （扉温泉 明神館：<a href="http://www.tobira-group.com/myojinkan/" target="_blank" onclick="sc('lexus:magazine:article:20240322-1755-jou_tjj.html:article-www.tobira-group.com');">http://www.tobira-group.com/myojinkan/</a>）                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/44ad5feeaef44e398fb4b4aeb60bfb17/carousel_8_20240321142019_167534722665fbc393af769.jpg" alt="市街地を抜け細い峠道を走ると、野鳥のさえずりと清流のせせらぎが聞こえる、山の自然に包まれた一軒宿「扉温泉 明神館」が佇む" /><figcaption>市街地を抜け細い峠道を走ると、野鳥のさえずりと清流のせせらぎが聞こえる、山の自然に包まれた一軒宿「扉温泉 明神館」が佇む</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/04546f97843b48729026e8db9211cc40/carousel_9_20240321142019_4135203865fbc393af81c.jpg" alt="自然の中で過ごす「ありのまま」をコンセプトにした「然 standard」。時計やテレビがない客室で、自然の音をBGMにお寛ぎください" /><figcaption>自然の中で過ごす「ありのまま」をコンセプトにした「然 standard」。時計やテレビがない客室で、自然の音をBGMにお寛ぎください</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/df7bf17db4074a6191c6a3d247055140/carousel_10_20240321142019_149974612765fbc393af8ca.jpg" alt="この山に住む伝説の龍に因んで名づけられた「青龍庵」。屋根付き露天風呂または半露天風呂のお部屋で、時間を気にせずお寛ぎください" /><figcaption>この山に住む伝説の龍に因んで名づけられた「青龍庵」。屋根付き露天風呂または半露天風呂のお部屋で、時間を気にせずお寛ぎください</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/aeceb0bf2988490dbbaf17b651030b6a/carousel_11_20240321142019_170649332965fbc393af977.jpg" alt="信州ダイニングTOBIRAでは、開放的な空間と白樺に模した照明の下、自家製無農薬野菜や旬の食材を使った日本料理をご堪能いただけます" /><figcaption>信州ダイニングTOBIRAでは、開放的な空間と白樺に模した照明の下、自家製無農薬野菜や旬の食材を使った日本料理をご堪能いただけます</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/fa079226597142278b73f8027980986e/carousel_12_20240321142019_112467314965fbc393afa22.jpg" alt="ナチュレフレンチ菜では、信州の野菜をメインに、素材の味を引き立てる優しいフランス料理をお召し上がりください" /><figcaption>ナチュレフレンチ菜では、信州の野菜をメインに、素材の味を引き立てる優しいフランス料理をお召し上がりください</figcaption></figure><h2>厳選の宿 02／松本十帖</h2><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/a7bedd96bafb426c907fe560cda48e05/image_20240321142200_90772675265fbc3f82c805.jpg" alt="" /><figcaption></figcaption></figure><p>新旧の記憶を繋ぐコンセプトホテル「松本十帖／松本本箱」。源泉かけ流しの露天風呂、信州の風土を表現したローカルガストロノミーとともに、心豊かな時間をお過ごしください。<br>
-（松本十帖 松本本箱：<a href="https://matsumotojujo.com/journal/" target="_blank" onclick="sc('lexus:magazine:article:20240322-1755-jou_tjj.html:article-matsumotojujo.com');">https://matsumotojujo.com/journal/</a>）                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/fcf0d54a496a40b3a83d2a3e642b15c4/carousel_8_20240321142305_10087078865fbc43950d4f.jpg" alt="「豊かな知と出会う」をテーマに老舗旅館を改装。浅間温泉一帯のリノベーションの中心となっている" /><figcaption>「豊かな知と出会う」をテーマに老舗旅館を改装。浅間温泉一帯のリノベーションの中心となっている</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/5403d9329ecd46dfb52a273f6396cabd/carousel_9_20240321142305_33514672765fbc43950e02.jpg" alt="ホテル1階に併設されたブックストア。フロントから奥へと続く本の道には、過去から現在に至るベストセラーがずらりと並ぶ" /><figcaption>ホテル1階に併設されたブックストア。フロントから奥へと続く本の道には、過去から現在に至るベストセラーがずらりと並ぶ</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/b18df487ac1e499784e1e41b64e828a1/carousel_10_20240321142305_52788801465fbc43950eae.jpg" alt="おこもり書斎ベッドを備えた露天風呂付の「デザイナーズツイン」。あえて内装材を貼らず、素材の表情ゆたかな空間に" /><figcaption>おこもり書斎ベッドを備えた露天風呂付の「デザイナーズツイン」。あえて内装材を貼らず、素材の表情ゆたかな空間に</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/322e8a4cd56e43489dc182eb85b9e134/carousel_11_20240321142305_62613153265fbc43950f59.jpg" alt="薪火グリルダイニング367では、365日、日々変わる信州の風土だけでなく、文化と歴史（+2）も表現する" /><figcaption>薪火グリルダイニング367では、365日、日々変わる信州の風土だけでなく、文化と歴史（+2）も表現する</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/48cfc7b8fe5e4cc7a19ce9b2e07e6be1/carousel_12_20240321142327_140247484165fbc44fc0242.jpg" alt="薪火で香ばしく焼き上げた料理は、ローカルガストロノミーの考えを取り入れた、ここでしか味わえないひと皿　※画像はイメージです" /><figcaption>薪火で香ばしく焼き上げた料理は、ローカルガストロノミーの考えを取り入れた、ここでしか味わえないひと皿　※画像はイメージです</figcaption></figure><h2>DAY2／モデルプラン</h2><p>2日目は信州の雄大な「自然」と、そのなかで培われた「文化」に様々な体験やアクティビティを通じて触れてみましょう。LEXUS NEW TAKUMI PROJECT 2016 長野代表 岩原裕右氏による木曽漆塗り体験（オプション）や奈良井宿散策、乗鞍高原での季節に合わせたネイチャーアクティビティ（オプション）など、お好みに合わせて思い思いの時間をお楽しみください。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7d38467baef54e3689a6653823b52e79/carousel_9_20240321142413_174353470165fbc47d65bd2.jpg" alt="<Special Option①> 独自の技術により、皮革に割れを防ぎ漆を塗る。伝統を受け継ぎながら新たな漆の可能性を探求する" /><figcaption><Special Option①> 独自の技術により、皮革に割れを防ぎ漆を塗る。伝統を受け継ぎながら新たな漆の可能性を探求する</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/af3553defc1040988a7cf9f9c7a86c08/carousel_10_20240321142507_130581895265fbc4b3cdf1f.jpg" alt="<Special Option①> 漆を塗るヘラの角度と力加減の難しさを感じながら製作したカップスリーブは、体験の思い出と共に" /><figcaption><Special Option①> 漆を塗るヘラの角度と力加減の難しさを感じながら製作したカップスリーブは、体験の思い出と共に</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/99e4e40416c24e24bc5490fdd081c90c/carousel_11_20240321142507_22112530665fbc4b3cdfd1.jpg" alt="時間があれば少し足を延ばして、今もなお旅人が行き交う「木曽路 奈良井宿」へ。日本の情緒を残す美しい街並みを散策してみましょう" /><figcaption>時間があれば少し足を延ばして、今もなお旅人が行き交う「木曽路 奈良井宿」へ。日本の情緒を残す美しい街並みを散策してみましょう</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/2c737a40c5f24ac2b5fd9a930ce6160b/carousel_12_20240321142507_171611113165fbc4b3ce07d.jpg" alt="<Special Option②-1> 雄大な自然の中をラフトボートやSUPで水上散歩。秘境の湖には息を飲むような渓谷美が待っています" /><figcaption><Special Option②-1> 雄大な自然の中をラフトボートやSUPで水上散歩。秘境の湖には息を飲むような渓谷美が待っています</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/697588ff870f487bb9eed8acb3c6c2db/carousel_13_20240321142553_52720356865fbc4e1392ec.jpg" alt="<Special Option②-2> 美しい川のせせらぎやそこに息づく動植物と一体になれる高原トレッキング。爽やかな空気を全身で感じましょう" /><figcaption><Special Option②-2> 美しい川のせせらぎやそこに息づく動植物と一体になれる高原トレッキング。爽やかな空気を全身で感じましょう</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/bd87bbccf07d494589a137bb68b1bb10/carousel_14_20240321142553_14718125865fbc4e13939f.jpg" alt="<Special Option②-3> 新雪を踏みしめる感触と音を楽しみながら大自然を歩くスノーシュー。極上のパウダースノーは乗鞍高原ならでは" /><figcaption><Special Option②-3> 新雪を踏みしめる感触と音を楽しみながら大自然を歩くスノーシュー。極上のパウダースノーは乗鞍高原ならでは</figcaption></figure><p>◆プラン名：LEXUS ELECTRIFIED JOURNEY 松本<br>
+（松本十帖 松本本箱：<a href="https://matsumotojujo.com/journal/" target="_blank" onclick="sc('lexus:magazine:article:20240322-1755-jou_tjj.html:article-matsumotojujo.com');">https://matsumotojujo.com/journal/</a>）                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/fcf0d54a496a40b3a83d2a3e642b15c4/carousel_8_20240321142305_10087078865fbc43950d4f.jpg" alt="「豊かな知と出会う」をテーマに老舗旅館を改装。浅間温泉一帯のリノベーションの中心となっている" /><figcaption>「豊かな知と出会う」をテーマに老舗旅館を改装。浅間温泉一帯のリノベーションの中心となっている</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/5403d9329ecd46dfb52a273f6396cabd/carousel_9_20240321142305_33514672765fbc43950e02.jpg" alt="ホテル1階に併設されたブックストア。フロントから奥へと続く本の道には、過去から現在に至るベストセラーがずらりと並ぶ" /><figcaption>ホテル1階に併設されたブックストア。フロントから奥へと続く本の道には、過去から現在に至るベストセラーがずらりと並ぶ</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/b18df487ac1e499784e1e41b64e828a1/carousel_10_20240321142305_52788801465fbc43950eae.jpg" alt="おこもり書斎ベッドを備えた露天風呂付の「デザイナーズツイン」。あえて内装材を貼らず、素材の表情ゆたかな空間に" /><figcaption>おこもり書斎ベッドを備えた露天風呂付の「デザイナーズツイン」。あえて内装材を貼らず、素材の表情ゆたかな空間に</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/322e8a4cd56e43489dc182eb85b9e134/carousel_11_20240321142305_62613153265fbc43950f59.jpg" alt="薪火グリルダイニング367では、365日、日々変わる信州の風土だけでなく、文化と歴史（+2）も表現する" /><figcaption>薪火グリルダイニング367では、365日、日々変わる信州の風土だけでなく、文化と歴史（+2）も表現する</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/48cfc7b8fe5e4cc7a19ce9b2e07e6be1/carousel_12_20240321142327_140247484165fbc44fc0242.jpg" alt="薪火で香ばしく焼き上げた料理は、ローカルガストロノミーの考えを取り入れた、ここでしか味わえないひと皿　※画像はイメージです" /><figcaption>薪火で香ばしく焼き上げた料理は、ローカルガストロノミーの考えを取り入れた、ここでしか味わえないひと皿　※画像はイメージです</figcaption></figure><h2>DAY2／モデルプラン</h2><p>2日目は信州の雄大な「自然」と、そのなかで培われた「文化」に様々な体験やアクティビティを通じて触れてみましょう。LEXUS NEW TAKUMI PROJECT 2016 長野代表 岩原裕右氏による木曽漆塗り体験（オプション）や奈良井宿散策、乗鞍高原での季節に合わせたネイチャーアクティビティ（オプション）など、お好みに合わせて思い思いの時間をお楽しみください。                        </p><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/7d38467baef54e3689a6653823b52e79/carousel_9_20240321142413_174353470165fbc47d65bd2.jpg" alt="<Special Option①> 独自の技術により、皮革に割れを防ぎ漆を塗る。伝統を受け継ぎながら新たな漆の可能性を探求する" /><figcaption><Special Option①> 独自の技術により、皮革に割れを防ぎ漆を塗る。伝統を受け継ぎながら新たな漆の可能性を探求する</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/af3553defc1040988a7cf9f9c7a86c08/carousel_10_20240321142507_130581895265fbc4b3cdf1f.jpg" alt="<Special Option①> 漆を塗るヘラの角度と力加減の難しさを感じながら製作したカップスリーブは、体験の思い出と共に" /><figcaption><Special Option①> 漆を塗るヘラの角度と力加減の難しさを感じながら製作したカップスリーブは、体験の思い出と共に</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/99e4e40416c24e24bc5490fdd081c90c/carousel_11_20240321142507_22112530665fbc4b3cdfd1.jpg" alt="時間があれば少し足を延ばして、今もなお旅人が行き交う「木曽路 奈良井宿」へ。日本の情緒を残す美しい街並みを散策してみましょう" /><figcaption>時間があれば少し足を延ばして、今もなお旅人が行き交う「木曽路 奈良井宿」へ。日本の情緒を残す美しい街並みを散策してみましょう</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/2c737a40c5f24ac2b5fd9a930ce6160b/carousel_12_20240321142507_171611113165fbc4b3ce07d.jpg" alt="<Special Option②-1> 雄大な自然の中をラフトボートやSUPで水上散歩。秘境の湖には息を飲むような渓谷美が待っています" /><figcaption><Special Option②-1> 雄大な自然の中をラフトボートやSUPで水上散歩。秘境の湖には息を飲むような渓谷美が待っています</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/697588ff870f487bb9eed8acb3c6c2db/carousel_13_20240321142553_52720356865fbc4e1392ec.jpg" alt="<Special Option②-2> 美しい川のせせらぎやそこに息づく動植物と一体になれる高原トレッキング。爽やかな空気を全身で感じましょう" /><figcaption><Special Option②-2> 美しい川のせせらぎやそこに息づく動植物と一体になれる高原トレッキング。爽やかな空気を全身で感じましょう</figcaption></figure><figure><img src="https://images.microcms-assets.io/assets/f20918d28d3b45f2a075a291db24bd0d/bd87bbccf07d494589a137bb68b1bb10/carousel_14_20240321142553_14718125865fbc4e13939f.jpg" alt="<Special Option②-3> 新雪を踏みしめる感触と音を楽しみながら大自然を歩くスノーシュー。極上のパウダースノーは乗鞍高原ならでは" /><figcaption><Special Option②-3> 新雪を踏みしめる感触と音を楽しみながら大自然を歩くスノーシュー。極上のパウダースノーは乗鞍高原ならでは</figcaption></figure><p>◆プラン名：LEXUS ELECTRIFIED JOURNEY 松本<br>
 　　　　　　<a href="https://lexus.jp/cmpnform/pub/le/lexus_experience" target="_blank" onclick="sc('lexus:magazine:article:20240322-1755-jou_tjj.html:article-lexus.jp');">お問合せ/お申込みはこちら→</a><br>
 <br>
 ◆設定期間：2024年4月23日（火）～通年催行<br>
@@ -516,10 +868,39 @@ LEXUSのクルマにもHUＤは採用されている。しかし、飛行機の�
 　<a href="https://www.xperisus.com/lem-matsumoto-cp" target="_blank" onclick="sc('lexus:magazine:article:20240322-1755-jou_tjj.html:article-www.xperisus.com');">LEXUS ELECTRIFIED JOURNEY 松本× LEXUS 特別プログラム キャンセルポリシー→</a><br>
 <br>
 ◆備考<br>
-　＊本旅は旅行代理店「エクスペリサス株式会社」が旅行企画・実施いたします。                        </p> ]]>      </description>                        <goonews:relation>            <goonews:caption>Sample2</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>Sample</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p ]]>            </goonews:url>            </goonews:relation>
-            <goonews:relation>            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>            <goonews:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw ]]>            </goonews:url>            </goonews:relation>                  <smp:relation>            <smp:caption>Sample2</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>Sample</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880 ]]>            </smp:url>            </smp:relation>
-            <smp:relation>            <smp:caption>検証用 - Kudo  テスト</smp:caption>            <smp:url>              <![CDATA[ https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru ]]>            </smp:url>            </smp:relation>    </item>      </channel>    </rss>
+　＊本旅は旅行代理店「エクスペリサス株式会社」が旅行企画・実施いたします。                        </p>]]></description>
+         <goonews:relation>
+            <goonews:caption>Sample2</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>Sample</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用 - Kudo  テスト</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用(本多)：LM 6座仕様車”version L” 写真で紹介</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=au7yvk39p?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240520_update&amp;utm_content=rss-media_1_240520_au7yvk39p]]></goonews:url>
+         </goonews:relation>
+         <goonews:relation>
+            <goonews:caption>検証用-画像をSNS用縦型画像を入れると？</goonews:caption>
+            <goonews:url><![CDATA[https://lexus.jp/magazine/post/?id=duskhg7bflxw?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240516_update&amp;utm_content=rss-media_1_240516_duskhg7bflxw]]></goonews:url>
+         </goonews:relation>
+         <smp:relation>
+            <smp:caption>Sample2</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=zhoekqbeln24?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_zhoekqbeln24]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>Sample</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=i2_n_igp0880?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240531_update&amp;utm_content=rss-media_1_240531_i2_n_igp0880]]></smp:url>
+         </smp:relation>
+         <smp:relation>
+            <smp:caption>検証用 - Kudo  テスト</smp:caption>
+            <smp:url><![CDATA[https://lexus.jp/magazine/post/?id=qc-bemsb-ru?utm_campaign=rss-media&amp;utm_medium=app&amp;utm_source=dmenu-news&amp;utm_term=all_dmenu-news_rss-media_240522_update&amp;utm_content=rss-media_1_240522_qc-bemsb-ru]]></smp:url>
+         </smp:relation>
+      </item>
+   </channel>
+</rss>
